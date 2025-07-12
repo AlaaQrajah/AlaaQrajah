@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">مرحباً 👋، أنا آلاء قراجه (Alaa Qarajah)</h1>
+<h1 align="center">مرحباً 👋، أنا علاء قراجه (Alaa Qarajah)</h1>
 <h3 align="center">Front-End Developer | Informatics Engineering Student</h3>
 
 ---
